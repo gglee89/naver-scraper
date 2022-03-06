@@ -10,6 +10,26 @@ The goal is to create a open source library that is free and available for all t
   - [] by District
 - [] TBD
 
+# Stack
+
+**[Backend]**
+
+- NodeJS
+- AWS Lambda
+- AWS CodeBuild
+- AWS CodePipeline
+- AWS DynamoDB
+- Twillio
+
+**[Frontend]**
+
+- ReactJS
+
+# Referenced articles
+
+- https://aws.amazon.com/blogs/architecture/serverless-architecture-for-a-web-scraping-solution/
+- https://www.3idatascraping.com/how-to-make-a-web-scraper-with-aws-lambda-and-the-serverless-framework.php
+
 # Author
 
 **Giwoo Lee**  
